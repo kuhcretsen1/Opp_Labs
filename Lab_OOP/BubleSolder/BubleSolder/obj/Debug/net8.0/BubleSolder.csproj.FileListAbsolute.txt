@@ -1,0 +1,14 @@
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\bin\Debug\net8.0\BubleSolder.exe
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\bin\Debug\net8.0\BubleSolder.deps.json
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\bin\Debug\net8.0\BubleSolder.runtimeconfig.json
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\bin\Debug\net8.0\BubleSolder.dll
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\bin\Debug\net8.0\BubleSolder.pdb
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.AssemblyInfoInputs.cache
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.AssemblyInfo.cs
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.csproj.CoreCompileInputs.cache
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.dll
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\refint\BubleSolder.dll
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.pdb
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\BubleSolder.genruntimeconfig.cache
+C:\Users\Віталій\RiderProjects\BubleSolder\BubleSolder\obj\Debug\net8.0\ref\BubleSolder.dll

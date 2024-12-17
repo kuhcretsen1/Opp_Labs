@@ -1,0 +1,14 @@
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.AssemblyInfoInputs.cache
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.AssemblyInfo.cs
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\bin\Debug\net8.0\Coffee.exe
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\bin\Debug\net8.0\Coffee.deps.json
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\bin\Debug\net8.0\Coffee.runtimeconfig.json
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\bin\Debug\net8.0\Coffee.dll
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\bin\Debug\net8.0\Coffee.pdb
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.dll
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\refint\Coffee.dll
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.pdb
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\Coffee.genruntimeconfig.cache
+C:\Users\Віталій\RiderProjects\Coffee\Coffee\obj\Debug\net8.0\ref\Coffee.dll

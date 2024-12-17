@@ -1,0 +1,14 @@
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\bin\Debug\net8.0\№ 16.exe
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\bin\Debug\net8.0\№ 16.deps.json
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\bin\Debug\net8.0\№ 16.runtimeconfig.json
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\bin\Debug\net8.0\№ 16.dll
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\bin\Debug\net8.0\№ 16.pdb
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.AssemblyInfoInputs.cache
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.AssemblyInfo.cs
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.csproj.CoreCompileInputs.cache
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.dll
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\refint\№ 16.dll
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.pdb
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\№ 16.genruntimeconfig.cache
+D:\ОА_3\2 семестр\ООП\№ 16\№ 16\obj\Debug\net8.0\ref\№ 16.dll

@@ -1,0 +1,14 @@
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\bin\Debug\net8.0\WalletApp.exe
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\bin\Debug\net8.0\WalletApp.deps.json
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\bin\Debug\net8.0\WalletApp.runtimeconfig.json
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\bin\Debug\net8.0\WalletApp.dll
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\bin\Debug\net8.0\WalletApp.pdb
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.AssemblyInfoInputs.cache
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.AssemblyInfo.cs
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.csproj.CoreCompileInputs.cache
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.dll
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\refint\WalletApp.dll
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.pdb
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\WalletApp.genruntimeconfig.cache
+C:\Users\Віталій\RiderProjects\WalletApp\WalletApp\obj\Debug\net8.0\ref\WalletApp.dll

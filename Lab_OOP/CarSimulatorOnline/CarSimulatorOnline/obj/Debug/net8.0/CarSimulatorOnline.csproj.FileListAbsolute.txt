@@ -1,0 +1,14 @@
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\bin\Debug\net8.0\CarSimulatorOnline.exe
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\bin\Debug\net8.0\CarSimulatorOnline.deps.json
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\bin\Debug\net8.0\CarSimulatorOnline.runtimeconfig.json
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\bin\Debug\net8.0\CarSimulatorOnline.dll
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\bin\Debug\net8.0\CarSimulatorOnline.pdb
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.AssemblyInfoInputs.cache
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.AssemblyInfo.cs
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.csproj.CoreCompileInputs.cache
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.dll
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\refint\CarSimulatorOnline.dll
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.pdb
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\CarSimulatorOnline.genruntimeconfig.cache
+C:\Users\Віталій\RiderProjects\CarSimulatorOnline\CarSimulatorOnline\obj\Debug\net8.0\ref\CarSimulatorOnline.dll
